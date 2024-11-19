@@ -56,3 +56,14 @@ cur.close()
 {% endif %}
 
 ```
+
+## Testando módulos
+
+```Python
+function teste()
+	print ("teste")
+
+if __name__ == '__main__':
+	teste()
+```
+
